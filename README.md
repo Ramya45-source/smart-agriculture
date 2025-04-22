@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Smart Agriculture Research</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body { font-family: sans-serif; margin: 0; padding: 0; background: #f2f2f2; }
-    header { background-color: #4CAF50; padding: 20px; color: white; text-align: center; }
-    .content { padding: 30px; max-width: 900px; margin: auto; background: white; margin-top: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    h1, h2 { color: #2e7d32; }
-    footer { text-align: center; padding: 15px; background: #4CAF50; color: white; margin-top: 20px; }
-  </style>
-</head>
-<body>
-
 <header>
   <h1>Smart Agriculture Optimization</h1>
   <p>Empowering Farmers with Data-Driven Decisions</p>
